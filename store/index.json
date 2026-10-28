@@ -1,18 +1,18 @@
 [{
-  "name": "Marble Blast Gold",
-  "icon": "https://i.ibb.co/F01xspH/MBG.png",
-  "type": "game",
+  "name": "NAXAK UNO",
+  "icon": "https://ibb.co/tMSDyJmT",
+  "type": "app",
   "data": {
     "type": "IFrame",
-    "url": "https://egg.l5.ca/games/mbg",
+    "url": "https://naxakpoints.base44.app/",
     "gallery": [
-      "https://i.ibb.co/fvFQ9tR/screenshot-00001.png",
-      "https://i.ibb.co/ZSXjvGS/screenshot-00002.png",
-      "https://i.ibb.co/DLSsftJ/screenshot-00003.png",
-	  "https://i.ibb.co/PZxFtyh/screenshot-00004.png"
+      "https://ibb.co/WpKg24x0",
+      "https://ibb.co/kgWBGRJQ",
+      "https://ibb.co/V0XQZxbM",
+	  "https://ibb.co/mF5Kk1WD"
     ],
-    "desc": "Released in 2003 for Windows, Mac and Linux, Marble Blast Gold is a ball rolling game. In the game, your goal is to roll the marble to the finish pad. Collecting all the gems are a requirement for beating the level, and some levels require the use of powerups to finish.",
-    "feat": "100 levels and 6 powerups! 24 Beginner, 24 Intermediate and 52 Advanced.",
+    "desc": "Launched in 2026, Naxak Points Counter is the official platform for the Naxak community. It offers various features centered around Naxak’s virtual currency, known as Points. These include the ability to start an event or video call; if you start the timer while in a call, the platform will accumulate points based on the duration of your participation. Additionally, there is an I'm in an emergency option, which doubles the number of points you would otherwise earn—a feature designed for situations such as being at school, traveling on the road, using mobile data, studying, and more. The platform also includes an entertainment section, currently featuring Histrionic Specters (an animated series about the adventures of Naxak members, created by our owner) and NAXAK GAMES (a collection of online games also created by the owner). Furthermore, if you are accepted as a VIP, you will receive 800 or more points every month. You can use these points to purchase various items within the Naxak ecosystem; simply reach out to the owner to discuss your options. He will review your point balance and your history within the community before confirming your purchase—it’s that simple! What are you waiting for? Install the app and join us!",
+    "feat": "New episodes, interface, and more!",
     "invert": false
   }
 },
