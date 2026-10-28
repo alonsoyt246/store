@@ -1,20 +1,20 @@
-[{
-  "name": "Marble Blast Gold",
-  "icon": "https://i.ibb.co/F01xspH/MBG.png",
-  "type": "game",
-  "data": {
-    "type": "IFrame",
-    "url": "https://egg.l5.ca/games/mbg",
-    "gallery": [
-      "https://i.ibb.co/fvFQ9tR/screenshot-00001.png",
-      "https://i.ibb.co/ZSXjvGS/screenshot-00002.png",
-      "https://i.ibb.co/DLSsftJ/screenshot-00003.png",
-	  "https://i.ibb.co/PZxFtyh/screenshot-00004.png"
-    ],
-    "desc": "Released in 2003 for Windows, Mac and Linux, Marble Blast Gold is a ball rolling game. In the game, your goal is to roll the marble to the finish pad. Collecting all the gems are a requirement for beating the level, and some levels require the use of powerups to finish.",
-    "feat": "100 levels and 6 powerups! 24 Beginner, 24 Intermediate and 52 Advanced.",
-    "invert": false
-  }
+[
+  {
+    "name": "Naxak Points",
+    "icon": "https://ibb.co",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://base44.app",
+      "gallery": [
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co"
+      ],
+      "desc": "Naxak website application.",
+      "feat": "New interface, episodes, and games",
+      "invert": false  }
 },
 {
   "name": "Marble Blast Platinum",
